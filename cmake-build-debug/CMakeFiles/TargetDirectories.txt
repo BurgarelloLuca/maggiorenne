@@ -1,0 +1,3 @@
+C:/Users/luca_/CLionProjects/maggiorenne/cmake-build-debug/CMakeFiles/maggiorenne.dir
+C:/Users/luca_/CLionProjects/maggiorenne/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/luca_/CLionProjects/maggiorenne/cmake-build-debug/CMakeFiles/rebuild_cache.dir
